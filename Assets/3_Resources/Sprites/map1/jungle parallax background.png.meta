@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      jungle parallax background_0: 9218936472567064730
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
